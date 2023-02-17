@@ -1,3 +1,5 @@
+GRANT ALL PRIVILEGES ON DATABASE ddev TO gordonuser;
+
 -- create table for images
 
 CREATE TABLE images
